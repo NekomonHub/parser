@@ -16,4 +16,4 @@ const walk = (d) => {
  });
 };
 
-walk("/sdcard/OPENME");
+walk("~/storage/shared");

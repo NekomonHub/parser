@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+import FormData from 'form-data'
+import axios from 'axios'
+import archiver from 'archiver'
+
+console.log('Hello Rek')
